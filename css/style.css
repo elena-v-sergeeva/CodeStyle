@@ -61,6 +61,7 @@ body {
 
 .list__li {
   margin-bottom: 7px;
+  list-style-type: square;
 } 
 
 .list__li:last-child {
